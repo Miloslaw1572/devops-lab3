@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię: Miłosz
-Nazwisko: Łukasik
-Ulubiona technologia: Coś 
+Imię: Milo
+Nazwisko: Łuka
+Ulubiona technologia: Coś2 
